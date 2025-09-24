@@ -36,13 +36,11 @@ It is a small **Real Estate Listings Dashboard** built using **React + TypeScrip
 git clone https://github.com/Sameer-Saleem1/Real-Estate-Listings-Dashboard.git
 cd Real-Estate-Listings-Dashboard
 
-### 2. Install dependencies
 npm install
 
-### 3. Run the project
 npm run dev
 
-
+---
 ## Task Notes
 
 This project was completed as part of the **Frontend Developer Task** from **Mashvisor**.  
@@ -66,3 +64,8 @@ If given more time, I would:
 - Add a **map view** (Google Maps / Leaflet) to show property locations.  
 - Implement a **price chart** for each property.  
 - Enhance overall UI/UX with animations.
+
+---
+
+##You can access the website using :
+https://real-estate-listings-dashboard-fids.vercel.app/
