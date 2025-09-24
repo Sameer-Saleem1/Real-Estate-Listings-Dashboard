@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import { useState, useMemo } from "react";
 import useProperties from "../hooks/useProperties";
 import Card from "../components/Card";
 import SearchBar from "../components/SearchBar";
