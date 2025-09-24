@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { useState, useEffect, useId } from "react";
+import { useState, useEffect } from "react";
 
 interface Property {
   id: string;
